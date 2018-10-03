@@ -16,11 +16,14 @@
 
 If you want to contribute to or facilite the simple spider, be sure to just try it, thank you!
 
-# contact
+# For more information
 
-e-mail : **ztchao1996@163.com**
+if any suggestion you want to give me, welcome to contact me!
 
-wechat ID : **qq372520739**
+- [Facebook](https://www.facebook.com/tuchao.zhang.3)
+- [Instagram](https://www.instagram.com/tuchaozhang/)
+- [Weibo](https://weibo.com/5353344082/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+- gmail : **tuchao1996@gmail.com**
 
 --------
 
