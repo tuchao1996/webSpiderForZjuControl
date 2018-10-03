@@ -127,7 +127,7 @@ def masterWrite(masters, name, total):
             f.write('链接地址 :  ' + masters[i]['link'] + '\n')
             f.write('----'*30 + '\n')
         f.write('----'*30)
-        f.write('实际有: ' + str(total) + ' 条' + ' 显示有 ' + str(i + 1) + ' 条' )
+        f.write('实际有: ' + setr(total) + ' 条' + ' 显示有 ' + str(i + 1) + ' 条' )
     print('写入' + name + '.txt' + ' 成功!')
 
 def main_master():
